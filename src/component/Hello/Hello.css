@@ -1,0 +1,27 @@
+.main-class{
+    color:blue;
+}
+.chicken-image{
+    height: 80vh;
+    background-size: cover;
+}
+.chicken-button{
+    background-color: azure;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 15px;
+    border: 2px solid grey;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.chicken-description{
+    color: #323;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+}
+.hello-container{
+    background-color: antiquewhite;
+}

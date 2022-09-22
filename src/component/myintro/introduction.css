@@ -1,0 +1,10 @@
+.intro-list-item{
+    padding: 20px;
+    list-style-type: none;
+}
+.intro-paragraphs{
+    padding-left: 25px;
+}
+.intro-container{
+    background-color: azure;
+}
